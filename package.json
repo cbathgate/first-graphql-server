@@ -6,7 +6,7 @@
   "author": "<c.bathgate1@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js"
   },
   "dependencies": {
     "babel-preset-es2015": "^6.24.1",
